@@ -1,0 +1,7 @@
+biosample_id,strain,mlst,ribotype,npmA_presence,Composite_Tn,ICE_MGE_type,niche,host,host_disease,isolation_source,collection_year,collection_month,collection_day,continent,country,region,District,City,lab_contact,bioproject_id,run_id,study_id,contig_number,genome_length,N50,QC_assemblies,QC_reason
+SAMEA5846548,CD-18-00548,36,49,npmA2,,,Livestock,Pig,,rectal swab,2012,,,Europe,Germany,,,,Leibniz Institute DSMZ,PRJEB33780,ERR3465678,Schneeberg2013,51,4392333,208948,pass,
+SAMEA5846551,CD-18-00541,36,49,npmA2,,,Livestock,Pig,,rectal swab,2012,,,Europe,Germany,,,,Leibniz Institute DSMZ,PRJEB33780,ERR3465718,Schneeberg2013,60,4389108,138388,pass,
+SAMEA5846552,CD-18-00538,36,49,npmA2,,,Livestock,Pig,,rectal swab,2012,,,Europe,Germany,,,,Leibniz Institute DSMZ,PRJEB33780,ERR3465752,Schneeberg2013,47,4388659,208964,pass,
+SAMEA5846554,CD-18-00536,36,49,npmA2,,,Livestock,Pig,,rectal swab,2012,,,Europe,Germany,,,,Leibniz Institute DSMZ,PRJEB33780,ERR3465746,Schneeberg2013,70,4393218,129441,pass,
+SAMN02904009,7401255,36,,,,,Human,Human,,faeces,2005,10,13,Europe,United Kingdom,England,North Yorkshire,Scarborough,University of Oxford,PRJNA248340,SRR1519378,Knetsch2012,31,4331347,291427,pass,
+SAMN05209639,ECDC-011,36,,,,,Human,Human,,clinical,,,,Europe,United Kingdom,England,,Leeds,University of Oxford,PRJNA318370 ,SRR3631888,Stoesser2017,32,4327498,291393,pass,
